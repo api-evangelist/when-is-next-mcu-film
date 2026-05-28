@@ -1,0 +1,32 @@
+aid: when-is-next-mcu-film
+name: When is next MCU film
+description: "Upcoming MCU film information"
+url: https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: When is next MCU film
+    description: "Upcoming MCU film information"
+    humanURL: https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md
+    baseURL: https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md
+common:
+  - type: Website
+    url: https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
